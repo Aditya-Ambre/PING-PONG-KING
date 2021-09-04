@@ -1,6 +1,10 @@
 '''HI this is a simple PING PONG Game By DAYMAREBAIT
    It uses turtle and winsound module 
-   the logic part is basic maths  
+   the logic part is basic maths
+
+   CONTROLS :-
+   PLAYER A : W "UP" E "DOWN"
+   PLAYER B : K "UP" L "DOWN"  
 '''
 
 
